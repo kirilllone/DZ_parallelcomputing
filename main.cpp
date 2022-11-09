@@ -45,7 +45,7 @@ void usual()
 
 void vec()
 {
-    double_t array_a[4] = { 0.5,2.5,1.5,2.5 }; // 128 bit
+    double_t array_a[4] = { 0.5,2.5,1.5,2.5 }; 
     double_t array_b[4] = { 8.5,5.5,0.5,6.5 };
     double_t array_c[4];
 
